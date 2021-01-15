@@ -3,5 +3,5 @@
 $mod_strings = array (
   'LBL_TEST_DROP' => 'test drop',
   'LBL_AFTER_STASH' => 'after stahing now again change in that file',
-  'LBL_TESTING' => 'TESTING YES'
+  'LBL_TESTING' => 'TESTING YES',
 );
