@@ -97,6 +97,16 @@ array (
         array (
           0 => 
           array (
+            'name' => 'sales_rep_name_c',
+            'studio' => 'visible',
+            'label' => 'LBL_SALES_REP_NAME',
+          ),
+          1 => '',
+        ),
+        4 => 
+        array (
+          0 => 
+          array (
             'name' => 'billing_address_street',
             'hideLabel' => true,
             'type' => 'address',
@@ -123,7 +133,7 @@ array (
             ),
           ),
         ),
-        4 => 
+        5 => 
         array (
           0 => 
           array (
@@ -131,7 +141,7 @@ array (
             'label' => 'LBL_DESCRIPTION',
           ),
         ),
-        5 => 
+        6 => 
         array (
           0 => 
           array (
@@ -141,7 +151,7 @@ array (
           ),
           1 => '',
         ),
-        6 => 
+        7 => 
         array (
           0 => 
           array (
