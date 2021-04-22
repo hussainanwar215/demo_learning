@@ -288,6 +288,19 @@ array (
             'name' => 'total_amount',
             'label' => 'LBL_GRAND_TOTAL',
           ),
+          1 => 
+          array (
+            'name' => 'quote_filename',
+            'label' => 'LBL_GRAND_TOTAL',
+          ),
+        ),
+        10 => 
+        array (
+          0 => 
+          array (
+            'name' => 'filename',
+            'label' => 'LBL_PO_FILE',
+          ),
         ),
       ),
     ),
